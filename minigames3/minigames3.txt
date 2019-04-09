@@ -1,0 +1,5 @@
+"minigames3"
+{
+	"base"	"base"
+	"title"	"Minigames (v3)"
+}
